@@ -1,0 +1,5 @@
+{
+  "name": "Marty Solar Tracker",
+  "description": "Mobile-first iOS-friendly application for tracking work on solar construction sites.",
+  "requestFramePermissions": []
+}
